@@ -1,4 +1,4 @@
 ## Oii!! Eu sou a Mariana Rosin 🌊🌺
-- Cursando Engenharia de Software na Univille 
-- Atualmente trabalho em suporte de sistema
+- Curso Engenharia de Software na Univille 
+- Atualmente Anlista de suporte de sistemas
 
