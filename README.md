@@ -1,7 +1,9 @@
-## Oii!! Eu sou a Mariana Rosin 
+## Oii!! Eu sou a Mariana Rosin Gonçalves 🌊 🎵
+
+Sou apaixonada por praia e música
 
 - Estudante de Engenharia de Software na Univille 
-- Sou atualmente Analista de suporte á sistemas
+- Atualmente Analista de suporte á sistemas
 
 Meu objetivo é crescer e aprender na área de desenvolvimento. 
 O crescimento profissional é desafio, descoberta e muita pró-atividade.
